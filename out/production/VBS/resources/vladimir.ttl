@@ -1,0 +1,27 @@
+<https://dbpedia.org/page/Male>
+        <http://www.w3.org/2001/vcard-rdf/3.0#NAME>
+                "Male" .
+
+<https://www.google.com/maps/place/Vasile+Pavloski-Dzhgure+31,+Prilep,+North+Macedonia/@41.3573053,21.5422618,17z/data=!3m1!4b1!4m5!3m4!1s0x1356ebc1ae5cdb45:0xeb864b8c64a8d52d!8m2!3d41.3573013!4d21.5444505?hl=en-US>
+        <http://www.w3.org/2001/vcard-rdf/3.0#ADR>
+                "Vasile Pavloski Dzhgure 31" .
+
+<https://dbpedia.org/page/North_Macedonia>
+        <http://www.w3.org/2001/vcard-rdf/3.0#NAME>
+                "Macedonia" .
+
+<https://www.linkedin.com/in/vladimir-stojcheski-761793209/>
+        <http://www.w3.org/2001/vcard-rdf/3.0#BDAY>
+                "22-04-1998" ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#Country>
+                <https://dbpedia.org/page/North_Macedonia> ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#EMAIL>
+                "vladimir.stojcheski@finki.ukim.mk" , "stojcheskivladimir@gmail.com" ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#FN>
+                "Vladimir Stojcheski" ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#Street>
+                <https://www.google.com/maps/place/Vasile+Pavloski-Dzhgure+31,+Prilep,+North+Macedonia/@41.3573053,21.5422618,17z/data=!3m1!4b1!4m5!3m4!1s0x1356ebc1ae5cdb45:0xeb864b8c64a8d52d!8m2!3d41.3573013!4d21.5444505?hl=en-US> ;
+        <http://xmlns.com/foaf/0.1/age>
+                "23" ;
+        <http://xmlns.com/foaf/0.1/gender>
+                <https://dbpedia.org/page/Male> .
