@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa155b99-5d94-4c10-bfe0-2e5f720a002d" name="Default Changelist" comment="" />
+    <list default="true" id="fa155b99-5d94-4c10-bfe0-2e5f720a002d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/homework4/ConsumingLinkedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/hifm-dataset-bio2rdf.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VBS/homework1/Drugs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VBS/homework1/Drugs.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="20BKSITsdpVrkPw048KVHOvceBh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../apache-jena-4.2.0/lib/titanium-json-ld-1.1.0.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -35,7 +45,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Drugs">
+  <component name="RunManager" selected="Application.Drug">
+    <configuration name="ConsumingLinkedData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ConsumingLinkedData" />
+      <module name="VBS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Drug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.Drug" />
+      <module name="VBS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Drugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework1.Drugs" />
       <module name="VBS" />
@@ -71,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Drug" />
+        <item itemvalue="Application.ConsumingLinkedData" />
         <item itemvalue="Application.Drugs" />
         <item itemvalue="Application.GraphReader" />
         <item itemvalue="Application.ModelBuilder" />
@@ -89,5 +127,18 @@
       <updated>1635512539185</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
